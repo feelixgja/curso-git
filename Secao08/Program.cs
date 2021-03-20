@@ -6,6 +6,7 @@ namespace Secao08 {
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como você esta?");
 
             Console.ReadLine();
         }
